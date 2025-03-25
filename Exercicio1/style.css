@@ -1,10 +1,12 @@
 header {
     background-color: #248030;
     color: #fff;
+    border-radius: 5px;
 }
 
 main {
     background-color:  #ffff8c;
+    border-radius: 5px;
 }
 
 body {
@@ -14,10 +16,13 @@ body {
 
 footer {
     background-color: #fff;
+    border-radius: 5px;
 }
 
 button {
     background-color: #248030;
+    border-radius: 5px;
+    border: solid 2px #248030;
 }
 
 a {
